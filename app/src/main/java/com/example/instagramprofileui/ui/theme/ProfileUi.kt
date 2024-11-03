@@ -186,7 +186,6 @@ fun ProfileDescription(
             lineHeight = lineHeight
         )
     }
-
 }
 
 @Composable
@@ -213,9 +212,7 @@ fun PlusOverlayImage(
                 modifier = Modifier.size(20.dp),
                 tint = colorResource(R.color.sky_blue)
             )
-
         }
-
     }
 }
 
@@ -335,7 +332,6 @@ fun TopBar(
             contentDescription = null,
             modifier = Modifier.size(20.dp)
         )
-
     }
 }
 
@@ -404,9 +400,7 @@ fun ActionButton(
                 textAlign = TextAlign.Center
             )
         }
-
     }
-
 }
 
 @Composable
@@ -480,11 +474,9 @@ fun PostTabView(
                             .size(30.dp)
                     )
                 }
-
             }
         }
     }
-
 }
 
 @Composable
@@ -561,8 +553,6 @@ fun BottomMenu(
         }
 
     }
-
-
 }
 
 @Composable
