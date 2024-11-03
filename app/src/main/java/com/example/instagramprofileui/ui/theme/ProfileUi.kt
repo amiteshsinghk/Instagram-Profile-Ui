@@ -84,7 +84,6 @@ fun ProfileScreen() {
                     image = painterResource(id = R.drawable.profile),
                     text = "Posts"
                 )
-
             )
         ) {
             selectedTabIndex = it
