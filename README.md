@@ -2,13 +2,16 @@
 Explore how to set up and structure a Jetpack Compose project.
 Learn to create composable functions and manage layouts effectively.
 Example: Displaying a simple greeting message with dynamic styling.
+
 **2. Bottom Navigation Bar**
 Implementation of a Bottom Navigation Bar with multiple screens.
 Proper handling of navigation state with NavHost and NavController.
 Example: Navigate between Home, Profile, and Settings tabs seamlessly.
+
 **3. State Handling in Jetpack Compose**
 Manage and observe state changes using State, MutableState, and ViewModel.
 Example: A counter app demonstrating the use of remember and state.
+
 **4. Additional Features**
 Integration of advanced Jetpack Compose features such as:
 Animations (animateDpAsState, Crossfade, etc.)
